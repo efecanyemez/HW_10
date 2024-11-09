@@ -1,0 +1,29 @@
+[33mcommit 6d3436715764bbcc76c8ed90a99a85618e2ba605[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;32mdevelop[m[33m)[m
+Author: efecanyemez <efecanyemez@hotmail.com>
+Date:   Sat Nov 9 16:21:51 2024 +0300
+
+    develop_test.txt has changed
+
+[33mcommit fe05d4b985087a727833bad0bc2cfb0827e782a9[m
+Author: efecanyemez <efecanyemez@hotmail.com>
+Date:   Sat Nov 9 16:20:41 2024 +0300
+
+    Created develop_test.text file
+
+[33mcommit c51d274cef392f62d7db5d0cc3f30fe6c65ddf58[m
+Author: efecanyemez <efecanyemez@hotmail.com>
+Date:   Sat Nov 9 16:19:15 2024 +0300
+
+    Created main_test.txt file
+
+[33mcommit 330fc67deeec66edcd511e7b0ce060a77d311ddd[m
+Author: efecanyemez <efecanyemez@hotmail.com>
+Date:   Sat Nov 9 16:18:20 2024 +0300
+
+    Updated .gitignore file
+
+[33mcommit 4d208bc36aa2696f9160df7097b4519a29143a96[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Efe Can Yemez <102423621+efecanyemez@users.noreply.github.com>
+Date:   Sat Nov 9 15:47:41 2024 +0300
+
+    Initial commit
